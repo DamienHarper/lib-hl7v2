@@ -22,7 +22,7 @@
         "issues": "https://github.com/linkorb/hl7v2/issues"
     },
     "require": {
-        "symfony/console": "^3.2"
+        "symfony/console": "^4.0"
     },
     "bin": ["bin/hl7v2"],
     "autoload": {
